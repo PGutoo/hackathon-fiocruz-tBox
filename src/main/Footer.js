@@ -2,11 +2,11 @@ import React from "react";
 import styled from "styled-components";
 import { Link } from "react-router-dom";
 
-import perfil from "../../img/perfil.png";
-import alarme from "../../img/alarme.png";
-import camera from "../../img/camera.png";
-import trofeu from "../../img/trofeu.png";
-import Login from "../../img/login.png";
+import perfil from "../img/perfil.png";
+import alarme from "../img/alarme.png";
+import camera from "../img/camera.png";
+import trofeu from "../img/trofeu.png";
+import Login from "../img/login.png";
 
 export default function Footer() {
   return (

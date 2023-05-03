@@ -1,7 +1,7 @@
 import React from "react";
 import styled from "styled-components";
 
-import imgperfil from "../../img/imgperfil.jpg";
+import imgperfil from "../img/imgperfil.jpg";
 
 export default function Perfil() {
   return (

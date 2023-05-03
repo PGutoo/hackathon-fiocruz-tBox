@@ -2,7 +2,7 @@ import React from 'react'
 import styled from 'styled-components'
 import { Link } from 'react-router-dom'
 
-import TBox from '../../img/TBox.png';
+import TBox from '../img/tbox.png';
 
 
 export default function Cabecalho () {

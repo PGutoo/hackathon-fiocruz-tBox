@@ -3,9 +3,9 @@ import styled from "styled-components";
 import { Link } from "react-router-dom";
 import './Login.css';
 
-import sus from "../../img/sus.png";
-import tbox from "../../img/tbox.png";
-import atendimento from "../../img/atendimento.jpg";
+import sus from "../img/sus.png";
+import tbox from "../img/tbox.png";
+import atendimento from "../img/atendimento.jpg";
 
 export default function() {
   return (

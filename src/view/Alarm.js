@@ -1,7 +1,7 @@
 import React from "react";
 import styled from "styled-components";
 
-import calendario from "../../img/calendario.png";
+import calendario from "../img/calendario.png";
 
 export default function Alarm() {
   return (

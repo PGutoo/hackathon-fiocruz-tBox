@@ -6,7 +6,7 @@ import Cabecalho from "./Cabecalho";
 import Routes from "./Routes";
 import Footer from "./Footer";
 
-export default function App() {
+export default function zApp() {
   return (
     <BrowserRouter>
       <Corpo>
